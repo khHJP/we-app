@@ -5,12 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>We App</title>
+<script src="js/jquery.js"></script>
 </head>
 <body>
 	<h1>We App</h1>
-	<h2>khHJP</h2>
-	<!-- fetch든 pull이든. 가져온 아이. -->
-	
-	
+	<h2>khstudy</h2>
+
 </body>
 </html>
