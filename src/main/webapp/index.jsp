@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>We App</title>
+<link rel="stylesheet" href="/css/style.css" />
 <script src="js/jquery.js"></script>
 </head>
 <body>
