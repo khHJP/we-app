@@ -9,12 +9,12 @@
 <script src="js/jquery.js"></script>
 </head>
 <body>
-<!-- 아원시작 -->
+<!-- awonatwo start -->
 	<h1>We App</h1>
-<!-- 아원끝 -->
-<!-- 효정시작 -->
+<!-- awonatwo end -->
+<!-- khHJP start -->
 	<h2>khstudy</h2>
-<!-- 효정끝 -->
+<!-- khHJP start -->
 	
 
 </body>
