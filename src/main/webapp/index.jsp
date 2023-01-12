@@ -8,7 +8,6 @@
 </head>
 <body>
 	<h1>We App</h1>
-	<h2>awonatwo 수정.</h2>
 	<h2>khHJP</h2>
 	<!-- fetch든 pull이든. 가져온 아이. -->
 	
