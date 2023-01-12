@@ -22,7 +22,7 @@ public class WeShqkelServlet extends HttpServlet {
 		response.getWriter()
 		.append("Served at: ")
 		.append(request.getContextPath())
-		.append("sqhkel이 /hello에 응답했습니다.");
+		.append("Shqkel이 /hello에 응답했습니다.");
 	}
 
 }
