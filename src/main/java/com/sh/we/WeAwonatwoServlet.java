@@ -21,7 +21,7 @@ public class WeAwonatwoServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ")
 		.append(request.getContextPath())
-		.append("awonatwo이 /hello에 응답했습니다.");
+		.append("awonatwo이 /hello에 응답했습니다. 두번째 커밋 제발 돼라");
 	}
 
 }
