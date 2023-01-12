@@ -6,7 +6,9 @@
 <meta charset="UTF-8">
 <title>We App</title>
 <link rel="stylesheet" href="/css/style.css" />
+<!-- khHJP start -->
 <script src="js/jquery.js"></script>
+<!-- khHJP end -->
 </head>
 <body>
 	<h1>We App</h1>
